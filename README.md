@@ -1,4 +1,10 @@
-## Hi there 👋
+<div id='header' align='center'>
+  <h1>Claudia Calvo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</div>
+
+<p align="center">
+  Engineering And Finance Masters Student at University College London. Performing research to use LSTM machine learning models to predict power prices per British Agile Engery Zones.
+</p>
 
 <!--
 **ucemalv/ucemalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
