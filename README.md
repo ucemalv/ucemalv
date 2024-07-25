@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Engineering And Finance Masters Student at University College London. Performing research to use LSTM machine learning models to predict power prices per British Agile Engery Zones.
+  Engineering And Finance Masters Student at University College London. Performing research to use LSTM machine learning models to predict power prices per British Distribution Network Operator Zones.
 </p>
 
 <!--
